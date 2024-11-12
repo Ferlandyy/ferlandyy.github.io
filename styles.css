@@ -1,0 +1,56 @@
+/* styles.css */
+
+/* Styling for the color-example class */
+.color-example {
+    color: blue; /* Set the text color to blue */
+    background-color: #ffcc00; /* Set the background color to yellow (hex code) */
+    border: 2px solid red; /* Add a red border with 2px thickness */
+    padding: 10px; /* Add some padding to the paragraph */
+}
+
+/* Styling for the header-example class */
+.header-example h1 {
+    color: #FF5733; /* Set the text color to a reddish-orange shade */
+    font-size: 36px; /* Change the font size of the header */
+    font-family: 'Arial', sans-serif; /* Set the font family to Arial */
+}
+
+.header-example p {
+    font-size: 18px;
+    color: #333; /* Set the text color to dark gray */
+}
+
+/* Styling for the list-example class */
+.list-example {
+    list-style-type: square; /* Change the bullet points to squares */
+    padding-left: 20px; /* Add padding to the left */
+}
+
+.list-example li {
+    color: #4CAF50; /* Set the text color of list items to green */
+    font-size: 18px; /* Set the font size of list items */
+}
+
+/* Styling for the text-example class */
+.text-example {
+    font-family: 'Verdana', sans-serif; /* Set the font family to Verdana */
+    font-size: 20px; /* Increase the font size */
+    text-transform: capitalize; /* Capitalize the text */
+    text-decoration: underline; /* Underline the text */
+}
+
+/* Styling for the div-example class */
+.div-example {
+    background-color: #f2f2f2; /* Set a light gray background */
+    border: 2px solid #333; /* Add a border with a dark gray color */
+    padding: 20px; /* Add padding inside the div */
+    margin-top: 20px; /* Add space above the div */
+}
+
+/* Footer Section */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
